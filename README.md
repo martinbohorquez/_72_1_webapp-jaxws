@@ -10,7 +10,6 @@ La aplicación web que implementa operaciones básicas como `saludar()`, así co
 - Métodos básicos como `saludar()`, y para la clase `Curso`: `listar()` y `crear()`.
 - Gestión de dependencias y construcción del proyecto facilitada con Maven.
 - Despliegue en el servidor de aplicaciones WildFly.
-- Configuración de base de datos con MySQL para la persistencia de datos.
 
 ## Tecnologías utilizadas
 
@@ -24,7 +23,6 @@ La aplicación web que implementa operaciones básicas como `saludar()`, así co
 - JDK 21 instalado.
 - Maven 3.9.6 instalado.
 - Servidor de aplicaciones WildFly 32.0.0.Final configurado y ejecutándose.
-- Base de datos MySQL configurada y accesible desde el servidor WildFly.
 - IntelliJ IDEA 2024.1.1 instalado.
 
 ## Configuración del entorno de desarrollo
