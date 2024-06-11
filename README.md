@@ -2,7 +2,7 @@
 
 En este proyecto, utilizamos JAX-WS (Jakarta XML Web Services) para desarrollar servicios web SOAP (Simple Object Access Protocol). JAX-WS es una tecnología estándar de Java que facilita la creación de servicios web basados en XML.
 
-La aplicación web que implementa operaciones básicas como `saludar()`, así como operaciones CRUD (Crear, Listar) para una clase `Curso`, utilizando JAX-WS (Java API for XML Web Services) y desplegado en un servidor WildFly. La aplicación está construida con Jakarta EE 10 y utiliza Maven para la gestión de dependencias y la construcción del proyecto.
+La aplicación web que implementa operaciones básicas como `saludar()`, así como operaciones CRUD (Crear, Listar) para una clase `Curso`, utilizando JAX-WS (Jakarta XML Web Servicess) y desplegado en un servidor WildFly. La aplicación está construida con Jakarta EE 10 y utiliza Maven para la gestión de dependencias y la construcción del proyecto.
 
 ## Características principales
 
